@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/-/static/css/main.c7e8f911.css",
+    "main.js": "/-/static/js/main.d3552bdf.js",
+    "static/js/453.c525d7c0.chunk.js": "/-/static/js/453.c525d7c0.chunk.js",
+    "static/media/hero.png": "/-/static/media/hero.0e83ce6110c0661a806e.png",
+    "static/media/drfruitslogo.jpeg": "/-/static/media/drfruitslogo.23d4ab81840653257ec6.jpeg",
+    "static/media/user-2.png": "/-/static/media/user-2.b22c59baa927c1be0d2e.png",
+    "static/media/user-3.png": "/-/static/media/user-3.12915e16ed909bbd9b48.png",
+    "static/media/user-4.png": "/-/static/media/user-4.50ce69a0306667eba2c1.png",
+    "static/media/user-1.png": "/-/static/media/user-1.1f46bb883fe387830efd.png",
+    "index.html": "/-/index.html",
+    "main.c7e8f911.css.map": "/-/static/css/main.c7e8f911.css.map",
+    "main.d3552bdf.js.map": "/-/static/js/main.d3552bdf.js.map",
+    "453.c525d7c0.chunk.js.map": "/-/static/js/453.c525d7c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7e8f911.css",
+    "static/js/main.d3552bdf.js"
+  ]
+}
